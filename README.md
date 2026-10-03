@@ -1,1 +1,0 @@
-# pl-programs-c-lang
